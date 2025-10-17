@@ -1,6 +1,11 @@
 Its Develop js
-<<<<<<< HEAD
+
 Issues Js Added
-=======
+
 Bug Fix 
->>>>>>> Bugfix
+
+Add these line also
+
+I also want to use this
+
+

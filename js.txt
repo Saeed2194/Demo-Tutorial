@@ -1,2 +1,6 @@
 Its Develop js
+<<<<<<< HEAD
 Issues Js Added
+=======
+Bug Fix 
+>>>>>>> Bugfix
